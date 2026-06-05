@@ -43,6 +43,16 @@ as an embedded logo, so it needs no extra hosting.
 The badge shows the EU flag (official blue `#003399`, gold `#FFCC00` stars) on the
 left and **Made in EU** on the standard slate-grey field on the right.
 
+> **A note on stability:** the badge may be refined over time (colours, spacing,
+> new style variants). The `main` URL above always serves the latest version, which
+> is usually what you want. If you'd rather pin the *exact* artwork you see today,
+> link to a [tagged release](https://github.com/ideaconnect/made-in-eu/releases)
+> instead — e.g. replace `main` with the tag:
+>
+> ```markdown
+> ![Made in EU](https://raw.githubusercontent.com/ideaconnect/made-in-eu/v1.0.0/software-badge/made-in-eu.svg)
+> ```
+
 ## A fun fact (and the point)
 
 This repository — a project literally about European software sovereignty — is
