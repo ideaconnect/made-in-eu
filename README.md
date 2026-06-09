@@ -1,6 +1,6 @@
-# Made in EU
+# Made in the EU
 
-![Made in EU](software-badge/made-in-eu.svg)
+![Made in the EU](software-badge/made-in-the-eu.svg)
 
 A central visibility point for indicating that a piece of software comes from the
 **European Union**.
@@ -27,11 +27,11 @@ A fixed, cacheable, fully vector file — no external service, no tracking, scal
 any size. Either reference it from this repo or copy it into your own.
 
 ```markdown
-![Made in EU](https://raw.githubusercontent.com/ideaconnect/made-in-eu/main/software-badge/made-in-eu.svg)
+![Made in the EU](https://raw.githubusercontent.com/ideaconnect/made-in-the-eu/main/software-badge/made-in-the-eu.svg)
 ```
 
 ```html
-<img src="software-badge/made-in-eu.svg" alt="Made in EU" height="20">
+<img src="software-badge/made-in-the-eu.svg" alt="Made in the EU" height="20">
 ```
 
 ### 2. shields.io
@@ -41,16 +41,16 @@ If you prefer the shields.io pipeline, the ready-made URL is in
 as an embedded logo, so it needs no extra hosting.
 
 The badge shows the EU flag (official blue `#003399`, gold `#FFCC00` stars) on the
-left and **Made in EU** on the standard slate-grey field on the right.
+left and **Made in the EU** on the standard slate-grey field on the right.
 
 > **A note on stability:** the badge may be refined over time (colours, spacing,
 > new style variants). The `main` URL above always serves the latest version, which
 > is usually what you want. If you'd rather pin the *exact* artwork you see today,
-> link to a [tagged release](https://github.com/ideaconnect/made-in-eu/releases)
+> link to a [tagged release](https://github.com/ideaconnect/made-in-the-eu/releases)
 > instead — e.g. replace `main` with the tag:
 >
 > ```markdown
-> ![Made in EU](https://raw.githubusercontent.com/ideaconnect/made-in-eu/v1.0.0/software-badge/made-in-eu.svg)
+> ![Made in the EU](https://raw.githubusercontent.com/ideaconnect/made-in-the-eu/v2.0.0/software-badge/made-in-the-eu.svg)
 > ```
 
 ## A fun fact (and the point)
@@ -63,7 +63,7 @@ the European flag, the ground we stand on is more often than not American.
 It is kept here for now precisely because that is where the world's developers
 already are, and visibility is the whole purpose. But the hope is that one day this
 note will be obsolete — that the badge will live on European infrastructure, and
-that "Made in EU" will be the unremarkable default rather than a statement. 🇪🇺
+that "Made in the EU" will be the unremarkable default rather than a statement. 🇪🇺
 
 Until then: consider this both a badge and a small reminder.
 
@@ -75,5 +75,15 @@ request. Please keep the EU flag in its official colours and proportions.
 
 ## License
 
-[MIT](LICENSE) — use it anywhere, in any project, commercial or not, no attribution
-required. The lower the friction, the more places the flag can fly.
+[EUPL-1.2](LICENSE) — the **European Union Public Licence**. For a badge about
+European software, the EU's own licence is the natural home: it is drafted and
+approved by an EU institution and published in the official languages of the
+Union, every version carrying equal legal value.
+
+You are free to use, copy, modify and redistribute the badge. The EUPL is a
+reciprocal (copyleft) licence: distribute a modified version and it stays under
+the EUPL or a
+[compatible licence](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12),
+with the copyright and licence notices kept intact. For dropping a badge into a
+README that is no burden at all — and it keeps the flag flying under European
+terms.
